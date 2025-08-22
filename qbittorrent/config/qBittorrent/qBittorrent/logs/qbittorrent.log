@@ -1,0 +1,153 @@
+(N) 2025-08-22T17:29:03 - qBittorrent v5.1.2 started. Process ID: 152
+(N) 2025-08-22T17:29:03 - Using config directory: /config/qBittorrent
+(N) 2025-08-22T17:29:03 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-22T17:29:03 - Peer ID: "-qB5120-"
+(I) 2025-08-22T17:29:03 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-22T17:29:03 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-22T17:29:03 - Local Peer Discovery support: ON
+(I) 2025-08-22T17:29:03 - Peer Exchange (PeX) support: ON
+(I) 2025-08-22T17:29:03 - Anonymous mode: OFF
+(I) 2025-08-22T17:29:03 - Encryption support: ON
+(I) 2025-08-22T17:29:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-22T17:29:03 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-22T17:29:03 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2025-08-22T17:29:03 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2025-08-22T17:29:03 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-22T17:29:03 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2025-08-22T17:29:03 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-08-22T17:29:03 - Using built-in WebUI.
+(W) 2025-08-22T17:29:03 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-08-22T17:29:03 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-08-22T17:29:03 - Detected external IP. IP: "146.70.132.181"
+(I) 2025-08-22T17:29:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 02:25:11 2025.
+(I) 2025-08-22T17:29:03 - Successfully updated IP geolocation database.
+(N) 2025-08-22T17:36:09 - WebAPI login success. IP: ::ffff:10.0.10.39
+(N) 2025-08-22T17:36:24 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-22T17:50:46 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2025-08-22T17:50:49 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2025-08-22T18:02:10 - qBittorrent v5.1.2 started. Process ID: 146
+(N) 2025-08-22T18:02:10 - Using config directory: /config/qBittorrent
+(N) 2025-08-22T18:02:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-22T18:02:10 - Peer ID: "-qB5120-"
+(I) 2025-08-22T18:02:10 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-22T18:02:10 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-22T18:02:10 - Local Peer Discovery support: ON
+(I) 2025-08-22T18:02:10 - Peer Exchange (PeX) support: ON
+(I) 2025-08-22T18:02:10 - Anonymous mode: OFF
+(I) 2025-08-22T18:02:10 - Encryption support: ON
+(I) 2025-08-22T18:02:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-22T18:02:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-22T18:02:10 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2025-08-22T18:02:10 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2025-08-22T18:02:10 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-22T18:02:10 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-22T18:02:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 02:25:11 2025.
+(N) 2025-08-22T18:02:10 - Using built-in WebUI.
+(N) 2025-08-22T18:02:10 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-22T18:02:10 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-08-22T18:02:10 - Detected external IP. IP: "146.70.132.181"
+(N) 2025-08-22T18:02:16 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2025-08-22T18:02:19 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2025-08-22T18:08:09 - Added new torrent. Torrent: "The Simpsons Movie 2007 720p bluray YTS"
+(N) 2025-08-22T18:08:31 - WebAPI login success. IP: ::ffff:10.0.10.39
+(N) 2025-08-22T18:08:59 - Torrent removed. Torrent: "The Simpsons Movie 2007 720p bluray YTS"
+(N) 2025-08-22T18:08:59 - Torrent content removed. Torrent: "The Simpsons Movie 2007 720p bluray YTS"
+(N) 2025-08-22T18:10:12 - Added new torrent. Torrent: "The Simpsons Movie 2007 720p bluray YTS"
+(N) 2025-08-22T18:12:05 - Torrent download finished. Torrent: "The Simpsons Movie 2007 720p bluray YTS"
+(N) 2025-08-22T19:08:07 - qBittorrent v5.1.2 started. Process ID: 151
+(N) 2025-08-22T19:08:07 - Using config directory: /config/qBittorrent
+(N) 2025-08-22T19:08:07 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-22T19:08:07 - Peer ID: "-qB5120-"
+(I) 2025-08-22T19:08:07 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-22T19:08:07 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-22T19:08:07 - Local Peer Discovery support: ON
+(I) 2025-08-22T19:08:07 - Peer Exchange (PeX) support: ON
+(I) 2025-08-22T19:08:07 - Anonymous mode: OFF
+(I) 2025-08-22T19:08:07 - Encryption support: ON
+(I) 2025-08-22T19:08:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-22T19:08:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-22T19:08:07 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2025-08-22T19:08:07 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2025-08-22T19:08:07 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-22T19:08:07 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-08-22T19:08:07 - Restored torrent. Torrent: "The Simpsons Movie 2007 720p bluray YTS"
+(I) 2025-08-22T19:08:07 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 02:25:11 2025.
+(N) 2025-08-22T19:08:07 - Using built-in WebUI.
+(N) 2025-08-22T19:08:07 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-22T19:08:07 - WebUI: Now listening on IP: *, port: 8080
+(W) 2025-08-22T19:08:07 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "The Simpsons Movie 2007 720p bluray YTS". Reason: "The Simpsons Movie (2007) [BluRay] [720p] [YTS.AM] fast resume rejected. file_stat(/downloads/The Simpsons Movie (2007) [BluRay] [720p] [YTS.AM]/The.Simpsons.Movie.2007.720p.BluRay.x264-[YTS.AM].mp4): mismatching file size"
+(I) 2025-08-22T19:08:07 - Detected external IP. IP: "146.70.132.181"
+(N) 2025-08-22T19:08:16 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2025-08-22T19:08:17 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2025-08-22T19:08:33 - WebAPI login success. IP: ::ffff:10.0.10.39
+(N) 2025-08-22T19:08:46 - Torrent removed. Torrent: "The Simpsons Movie 2007 720p bluray YTS"
+(N) 2025-08-22T19:08:46 - Torrent content removed. Torrent: "The Simpsons Movie 2007 720p bluray YTS"
+(N) 2025-08-22T21:35:22 - qBittorrent v5.1.2 started. Process ID: 149
+(N) 2025-08-22T21:35:22 - Using config directory: /config/qBittorrent
+(N) 2025-08-22T21:35:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-22T21:35:22 - Peer ID: "-qB5120-"
+(I) 2025-08-22T21:35:22 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-22T21:35:22 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-22T21:35:22 - Local Peer Discovery support: ON
+(I) 2025-08-22T21:35:22 - Peer Exchange (PeX) support: ON
+(I) 2025-08-22T21:35:22 - Anonymous mode: OFF
+(I) 2025-08-22T21:35:22 - Encryption support: ON
+(I) 2025-08-22T21:35:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-22T21:35:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-22T21:35:22 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2025-08-22T21:35:22 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2025-08-22T21:35:22 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-22T21:35:22 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-22T21:35:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 02:25:11 2025.
+(N) 2025-08-22T21:35:22 - Using built-in WebUI.
+(N) 2025-08-22T21:35:22 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-22T21:35:22 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-08-22T21:35:22 - Detected external IP. IP: "146.70.132.181"
+(N) 2025-08-22T21:35:31 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2025-08-22T21:35:33 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2025-08-22T21:36:06 - Added new torrent. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG"
+(N) 2025-08-22T21:36:11 - WebAPI login success. IP: ::ffff:10.0.10.39
+(N) 2025-08-22T21:49:38 - Added new torrent. Torrent: "Four Lions (2010)"
+(N) 2025-08-22T22:11:01 - Torrent download finished. Torrent: "Four Lions (2010)"
+(N) 2025-08-22T22:15:20 - Torrent download finished. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG"
+(N) 2025-08-22T22:33:04 - Torrent stopped. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG"
+(N) 2025-08-22T22:33:04 - Torrent reached the share ratio limit. Torrent stopped. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG".
+(N) 2025-08-22T22:33:04 - Torrent stopped. Torrent: "Four Lions (2010)"
+(N) 2025-08-22T22:33:04 - Torrent reached the share ratio limit. Torrent stopped. Torrent: "Four Lions (2010)".
+(N) 2025-08-22T22:33:05 - qBittorrent termination initiated
+(N) 2025-08-22T22:33:05 - Saving resume data completed.
+(N) 2025-08-22T22:33:06 - BitTorrent session successfully finished.
+(N) 2025-08-22T22:33:06 - qBittorrent is now ready to exit
+(N) 2025-08-22T22:33:11 - qBittorrent v5.1.2 started. Process ID: 146
+(N) 2025-08-22T22:33:11 - Using config directory: /config/qBittorrent
+(N) 2025-08-22T22:33:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-22T22:33:11 - Peer ID: "-qB5120-"
+(I) 2025-08-22T22:33:11 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-22T22:33:11 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-22T22:33:11 - Local Peer Discovery support: ON
+(I) 2025-08-22T22:33:11 - Peer Exchange (PeX) support: ON
+(I) 2025-08-22T22:33:11 - Anonymous mode: OFF
+(I) 2025-08-22T22:33:11 - Encryption support: ON
+(I) 2025-08-22T22:33:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-22T22:33:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-22T22:33:11 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2025-08-22T22:33:11 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2025-08-22T22:33:11 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-22T22:33:11 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2025-08-22T22:33:11 - Restored torrent. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG"
+(N) 2025-08-22T22:33:11 - Restored torrent. Torrent: "Four Lions (2010)"
+(I) 2025-08-22T22:33:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 02:25:11 2025.
+(N) 2025-08-22T22:33:11 - Using built-in WebUI.
+(N) 2025-08-22T22:33:11 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-22T22:33:11 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-08-22T22:33:12 - Detected external IP. IP: "146.70.132.181"
+(N) 2025-08-22T22:33:20 - WebAPI login success. IP: ::ffff:10.0.10.39
+(N) 2025-08-22T22:33:41 - Torrent resumed. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG"
+(N) 2025-08-22T22:33:41 - Torrent reached the share ratio limit. Removing torrent and deleting its content. Torrent: "Four Lions (2010)".
+(N) 2025-08-22T22:33:41 - Torrent removed. Torrent: "Four Lions (2010)"
+(N) 2025-08-22T22:33:41 - Torrent reached the share ratio limit. Removing torrent and deleting its content. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG".
+(N) 2025-08-22T22:33:41 - Torrent removed. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG"
+(N) 2025-08-22T22:33:41 - Torrent content removed. Torrent: "Four Lions (2010)"
+(N) 2025-08-22T22:33:41 - Torrent content removed. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG"
+(N) 2025-08-22T22:34:04 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2025-08-22T22:34:31 - WebAPI login success. IP: ::ffff:172.18.0.5
