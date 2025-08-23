@@ -151,3 +151,32 @@
 (N) 2025-08-22T22:33:41 - Torrent content removed. Torrent: "The Simpsons Movie 2007 PROPER 1080p BluRay x265 RARBG ORARBG"
 (N) 2025-08-22T22:34:04 - WebAPI login success. IP: ::ffff:172.18.0.2
 (N) 2025-08-22T22:34:31 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2025-08-23T11:09:10 - qBittorrent v5.1.2 started. Process ID: 148
+(N) 2025-08-23T11:09:10 - Using config directory: /config/qBittorrent
+(N) 2025-08-23T11:09:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-08-23T11:09:10 - Peer ID: "-qB5120-"
+(I) 2025-08-23T11:09:10 - HTTP User-Agent: "qBittorrent/5.1.2"
+(I) 2025-08-23T11:09:10 - Distributed Hash Table (DHT) support: ON
+(I) 2025-08-23T11:09:10 - Local Peer Discovery support: ON
+(I) 2025-08-23T11:09:10 - Peer Exchange (PeX) support: ON
+(I) 2025-08-23T11:09:10 - Anonymous mode: OFF
+(I) 2025-08-23T11:09:10 - Encryption support: ON
+(I) 2025-08-23T11:09:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-08-23T11:09:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-08-23T11:09:10 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2025-08-23T11:09:10 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2025-08-23T11:09:10 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-08-23T11:09:10 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-08-23T11:09:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Fri Aug 1 02:25:11 2025.
+(N) 2025-08-23T11:09:10 - Using built-in WebUI.
+(N) 2025-08-23T11:09:10 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-08-23T11:09:10 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-08-23T11:09:11 - Detected external IP. IP: "146.70.132.181"
+(N) 2025-08-23T11:09:17 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2025-08-23T11:09:20 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2025-08-23T11:11:34 - WebAPI login success. IP: ::ffff:10.0.10.39
+(N) 2025-08-23T11:13:09 - Added new torrent. Torrent: "Chernobyl.S01E01.720p.WEBRip.x265-MiNX[TGx]"
+(N) 2025-08-23T11:15:23 - Torrent removed. Torrent: "Chernobyl.S01E01.720p.WEBRip.x265-MiNX[TGx]"
+(N) 2025-08-23T11:15:42 - Added new torrent. Torrent: "Chernobyl S01E01 (1080p AMZN WEB-DL x265 HEVC 10bit AC3 5.1 Qman) [UTR]"
+(N) 2025-08-23T11:20:49 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2025-08-23T11:21:02 - Torrent removed. Torrent: "Chernobyl S01E01 (1080p AMZN WEB-DL x265 HEVC 10bit AC3 5.1 Qman) [UTR]"
