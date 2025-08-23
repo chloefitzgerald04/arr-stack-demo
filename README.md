@@ -13,3 +13,12 @@ Built for my personal testing with terraform but decided to stick it in a public
 4. `docker compose up -d` to bring it up
 5. Done
 6. Optional - Use the import tools within Radarr and Sonarr if using a premade directory for media.
+
+
+## Credentials
+Credentials for all the services
+```
+Username - admin
+Password - Admin123 
+```
+Please change this password before actually deploying this k thx
