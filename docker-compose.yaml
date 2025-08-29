@@ -90,4 +90,4 @@ volumes:
     driver_opts:
      type: none
      o: bind
-     device: /mnt/media/Movies/downloads
+     device: /mnt/media/downloads
