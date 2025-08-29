@@ -64,7 +64,7 @@ services:
       - TZ=Europe/London
     volumes:
       - ./radarr/config:/config
-      - nmovies/:/movies
+      - movies:/movies
       - downloads:/downloads
     ports:
       - 7878:7878
