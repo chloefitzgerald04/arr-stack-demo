@@ -28,7 +28,7 @@ services:
       - WEBUI_PORT=8080
     volumes:
       - ./qbittorrent/config:/config
-      - /mnt/media/downloads:/downloads
+      - nas/downloads:/downloads
     ports:
       - 8080:8080
       - 6881:6881
@@ -49,8 +49,8 @@ services:
       - TZ=Europe/London
     volumes:
       - ./sonarr/config:/config
-      - /mnt/media/downloads:/downloads
-      - /mnt/media/TV:/TV
+      - nas/downloads:/downloads
+      - nas/TV:/TV
     restart: always
 
   radarr:
@@ -64,8 +64,8 @@ services:
       - TZ=Europe/London
     volumes:
       - ./radarr/config:/config
-      - /mnt/media/Movies/:/movies
-      - /mnt/media/downloads:/downloads
+      - nas/Movies/:/movies
+      - nas/downloads:/downloads
     ports:
       - 7878:7878
     restart: always
@@ -74,3 +74,10 @@ services:
 networks:
   arr:
     name: arr
+
+volumes:
+  nas:
+    driver_opts:
+     type: none
+     o: bind
+     device: /mnt/media
