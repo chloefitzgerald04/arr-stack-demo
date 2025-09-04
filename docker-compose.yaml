@@ -71,8 +71,10 @@ services:
     restart: always
 
   jellyfin:
-    image: lscr.io/linuxserver/jellyfin:latest
     container_name: jellyfin
+    image: lscr.io/linuxserver/jellyfin:latest
+    networks:
+      - arr
     environment:
       - PUID=500
       - PGID=500
@@ -82,7 +84,7 @@ services:
       - tv:/data/tvshows
       - movies:/data/movies
     ports:
-      - 443:8096
+      - 8096:8096
 
 networks:
   arr:
