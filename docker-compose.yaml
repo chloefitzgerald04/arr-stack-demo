@@ -70,6 +70,19 @@ services:
       - 7878:7878
     restart: always
 
+  jellyfin:
+    image: lscr.io/linuxserver/jellyfin:latest
+    container_name: jellyfin
+    environment:
+      - PUID=500
+      - PGID=500
+      - TZ=Europe/London
+    volumes:
+      - ./jellyfin/config:/config
+      - tv:/data/tvshows
+      - movies:/data/movies
+    ports:
+      - 443:8096
 
 networks:
   arr:
